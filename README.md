@@ -1,4 +1,4 @@
-# 🤖 AI Lead Generation & Outreach Agent
+# 🔎 AI Lead Generation & Outreach Agent
 
 > A fully automated AI-powered lead generation system that scrapes leads, qualifies them intelligently, and sends personalized outreach messages at scale.
 
